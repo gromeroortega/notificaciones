@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066379021041",
+    "project_id": "notificaciones-dart",
+    "storage_bucket": "notificaciones-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066379021041:android:bcedbc6145afa6ecbd3750",
+        "android_client_info": {
+          "package_name": "com.gromero.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066379021041-bv4m46k1diqbk7nie0t1rb6lc771lqg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gromero.notificaciones",
+            "certificate_hash": "f59f4df5e79723b99829bb1c7770164b276b9205"
+          }
+        },
+        {
+          "client_id": "1066379021041-nfehfikf7q3em66ral6md1p64nass6d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI8mfRJXcd88CRG2Sw02xOtF37XFewxFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066379021041-nfehfikf7q3em66ral6md1p64nass6d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
